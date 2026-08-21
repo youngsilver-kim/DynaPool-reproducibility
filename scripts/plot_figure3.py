@@ -204,6 +204,55 @@ def draw_figure(data: dict[str, np.ndarray]) -> plt.Figure:
             ax.set_yscale("symlog", linthresh=1e-4, linscale=1.0, base=10)
             ax.set_ylim(0.0, 1.05)
             ax.set_yticks([0.0, 1e-4, 1e-3, 1e-2, 1e-1, 1.0])
+
+            # The Attention coefficients are concentrated extremely close to
+            # one and therefore collapse into a thin mark on the symlog axis.
+            # Show the same unsampled values in a small linear-scale inset.
+            attention_values = distributions[BRANCHES.index("att")]
+            inset = ax.inset_axes([0.70, 0.48, 0.27, 0.34])
+            inset_violin = inset.violinplot(
+                [attention_values],
+                positions=[1],
+                widths=0.62,
+                showmeans=False,
+                showmedians=False,
+                showextrema=False,
+                points=300,
+                bw_method="scott",
+            )
+            inset_body = inset_violin["bodies"][0]
+            inset_body.set_facecolor(BRANCH_COLORS[BRANCHES.index("att")])
+            inset_body.set_edgecolor("#263238")
+            inset_body.set_linewidth(0.55)
+            inset_body.set_alpha(0.82)
+
+            attention_q25, attention_median, attention_q75 = np.quantile(
+                attention_values, [0.25, 0.50, 0.75]
+            )
+            inset.vlines(
+                1,
+                attention_q25,
+                attention_q75,
+                color="#1A1A1A",
+                linewidth=1.05,
+                zorder=3,
+            )
+            inset.scatter(
+                1,
+                attention_median,
+                color="white",
+                edgecolor="#1A1A1A",
+                s=12,
+                zorder=4,
+            )
+            inset.set_xlim(0.55, 1.45)
+            inset.set_ylim(0.995, 1.0001)
+            inset.set_xticks([1], ["Attention"])
+            inset.set_yticks([0.995, 0.9975, 1.000])
+            inset.set_title("Attention zoom", fontsize=6.5, pad=2)
+            inset.tick_params(axis="both", labelsize=5.8, width=0.6, length=2)
+            inset.grid(axis="y", color="#D7DEE5", linewidth=0.45)
+            inset.spines[["top", "right"]].set_visible(False)
         else:
             ax.set_ylim(0.0, 0.90)
             ax.set_yticks([0.0, 0.2, 0.4, 0.6, 0.8])
