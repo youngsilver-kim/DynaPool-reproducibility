@@ -1,0 +1,1987 @@
+{
+  "status": "passed",
+  "passed": 396,
+  "failed": 0,
+  "checks": [
+    {
+      "check": "completed:avg:13",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/avg/seed_00013/result.json"
+    },
+    {
+      "check": "status:avg:13",
+      "passed": true,
+      "detail": "status=completed"
+    },
+    {
+      "check": "history:avg:13",
+      "passed": true,
+      "detail": "rows=50, epochs=50"
+    },
+    {
+      "check": "validation_count:avg:13",
+      "passed": true,
+      "detail": "n=10000"
+    },
+    {
+      "check": "predictions:avg:13",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/avg/seed_00013/predictions_validation.npz"
+    },
+    {
+      "check": "target_order:avg:13",
+      "passed": true,
+      "detail": "paired predictions share identical validation target order"
+    },
+    {
+      "check": "completed:avg:42",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/avg/seed_00042/result.json"
+    },
+    {
+      "check": "status:avg:42",
+      "passed": true,
+      "detail": "status=completed"
+    },
+    {
+      "check": "history:avg:42",
+      "passed": true,
+      "detail": "rows=50, epochs=50"
+    },
+    {
+      "check": "validation_count:avg:42",
+      "passed": true,
+      "detail": "n=10000"
+    },
+    {
+      "check": "predictions:avg:42",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/avg/seed_00042/predictions_validation.npz"
+    },
+    {
+      "check": "target_order:avg:42",
+      "passed": true,
+      "detail": "paired predictions share identical validation target order"
+    },
+    {
+      "check": "completed:avg:2026",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/avg/seed_02026/result.json"
+    },
+    {
+      "check": "status:avg:2026",
+      "passed": true,
+      "detail": "status=completed"
+    },
+    {
+      "check": "history:avg:2026",
+      "passed": true,
+      "detail": "rows=50, epochs=50"
+    },
+    {
+      "check": "validation_count:avg:2026",
+      "passed": true,
+      "detail": "n=10000"
+    },
+    {
+      "check": "predictions:avg:2026",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/avg/seed_02026/predictions_validation.npz"
+    },
+    {
+      "check": "target_order:avg:2026",
+      "passed": true,
+      "detail": "paired predictions share identical validation target order"
+    },
+    {
+      "check": "completed:max:13",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/max/seed_00013/result.json"
+    },
+    {
+      "check": "status:max:13",
+      "passed": true,
+      "detail": "status=completed"
+    },
+    {
+      "check": "history:max:13",
+      "passed": true,
+      "detail": "rows=50, epochs=50"
+    },
+    {
+      "check": "validation_count:max:13",
+      "passed": true,
+      "detail": "n=10000"
+    },
+    {
+      "check": "predictions:max:13",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/max/seed_00013/predictions_validation.npz"
+    },
+    {
+      "check": "target_order:max:13",
+      "passed": true,
+      "detail": "paired predictions share identical validation target order"
+    },
+    {
+      "check": "completed:max:42",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/max/seed_00042/result.json"
+    },
+    {
+      "check": "status:max:42",
+      "passed": true,
+      "detail": "status=completed"
+    },
+    {
+      "check": "history:max:42",
+      "passed": true,
+      "detail": "rows=50, epochs=50"
+    },
+    {
+      "check": "validation_count:max:42",
+      "passed": true,
+      "detail": "n=10000"
+    },
+    {
+      "check": "predictions:max:42",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/max/seed_00042/predictions_validation.npz"
+    },
+    {
+      "check": "target_order:max:42",
+      "passed": true,
+      "detail": "paired predictions share identical validation target order"
+    },
+    {
+      "check": "completed:max:2026",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/max/seed_02026/result.json"
+    },
+    {
+      "check": "status:max:2026",
+      "passed": true,
+      "detail": "status=completed"
+    },
+    {
+      "check": "history:max:2026",
+      "passed": true,
+      "detail": "rows=50, epochs=50"
+    },
+    {
+      "check": "validation_count:max:2026",
+      "passed": true,
+      "detail": "n=10000"
+    },
+    {
+      "check": "predictions:max:2026",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/max/seed_02026/predictions_validation.npz"
+    },
+    {
+      "check": "target_order:max:2026",
+      "passed": true,
+      "detail": "paired predictions share identical validation target order"
+    },
+    {
+      "check": "completed:gem:13",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/gem/seed_00013/result.json"
+    },
+    {
+      "check": "status:gem:13",
+      "passed": true,
+      "detail": "status=completed"
+    },
+    {
+      "check": "history:gem:13",
+      "passed": true,
+      "detail": "rows=50, epochs=50"
+    },
+    {
+      "check": "validation_count:gem:13",
+      "passed": true,
+      "detail": "n=10000"
+    },
+    {
+      "check": "predictions:gem:13",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/gem/seed_00013/predictions_validation.npz"
+    },
+    {
+      "check": "target_order:gem:13",
+      "passed": true,
+      "detail": "paired predictions share identical validation target order"
+    },
+    {
+      "check": "gem_p:gem:13",
+      "passed": true,
+      "detail": "learned_p=8.842938423156738"
+    },
+    {
+      "check": "completed:gem:42",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/gem/seed_00042/result.json"
+    },
+    {
+      "check": "status:gem:42",
+      "passed": true,
+      "detail": "status=completed"
+    },
+    {
+      "check": "history:gem:42",
+      "passed": true,
+      "detail": "rows=50, epochs=50"
+    },
+    {
+      "check": "validation_count:gem:42",
+      "passed": true,
+      "detail": "n=10000"
+    },
+    {
+      "check": "predictions:gem:42",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/gem/seed_00042/predictions_validation.npz"
+    },
+    {
+      "check": "target_order:gem:42",
+      "passed": true,
+      "detail": "paired predictions share identical validation target order"
+    },
+    {
+      "check": "gem_p:gem:42",
+      "passed": true,
+      "detail": "learned_p=8.875550270080566"
+    },
+    {
+      "check": "completed:gem:2026",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/gem/seed_02026/result.json"
+    },
+    {
+      "check": "status:gem:2026",
+      "passed": true,
+      "detail": "status=completed"
+    },
+    {
+      "check": "history:gem:2026",
+      "passed": true,
+      "detail": "rows=50, epochs=50"
+    },
+    {
+      "check": "validation_count:gem:2026",
+      "passed": true,
+      "detail": "n=10000"
+    },
+    {
+      "check": "predictions:gem:2026",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/gem/seed_02026/predictions_validation.npz"
+    },
+    {
+      "check": "target_order:gem:2026",
+      "passed": true,
+      "detail": "paired predictions share identical validation target order"
+    },
+    {
+      "check": "gem_p:gem:2026",
+      "passed": true,
+      "detail": "learned_p=8.880377769470215"
+    },
+    {
+      "check": "completed:att:13",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/att/seed_00013/result.json"
+    },
+    {
+      "check": "status:att:13",
+      "passed": true,
+      "detail": "status=completed"
+    },
+    {
+      "check": "history:att:13",
+      "passed": true,
+      "detail": "rows=50, epochs=50"
+    },
+    {
+      "check": "validation_count:att:13",
+      "passed": true,
+      "detail": "n=10000"
+    },
+    {
+      "check": "predictions:att:13",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/att/seed_00013/predictions_validation.npz"
+    },
+    {
+      "check": "target_order:att:13",
+      "passed": true,
+      "detail": "paired predictions share identical validation target order"
+    },
+    {
+      "check": "completed:att:42",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/att/seed_00042/result.json"
+    },
+    {
+      "check": "status:att:42",
+      "passed": true,
+      "detail": "status=completed"
+    },
+    {
+      "check": "history:att:42",
+      "passed": true,
+      "detail": "rows=50, epochs=50"
+    },
+    {
+      "check": "validation_count:att:42",
+      "passed": true,
+      "detail": "n=10000"
+    },
+    {
+      "check": "predictions:att:42",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/att/seed_00042/predictions_validation.npz"
+    },
+    {
+      "check": "target_order:att:42",
+      "passed": true,
+      "detail": "paired predictions share identical validation target order"
+    },
+    {
+      "check": "completed:att:2026",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/att/seed_02026/result.json"
+    },
+    {
+      "check": "status:att:2026",
+      "passed": true,
+      "detail": "status=completed"
+    },
+    {
+      "check": "history:att:2026",
+      "passed": true,
+      "detail": "rows=50, epochs=50"
+    },
+    {
+      "check": "validation_count:att:2026",
+      "passed": true,
+      "detail": "n=10000"
+    },
+    {
+      "check": "predictions:att:2026",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/att/seed_02026/predictions_validation.npz"
+    },
+    {
+      "check": "target_order:att:2026",
+      "passed": true,
+      "detail": "paired predictions share identical validation target order"
+    },
+    {
+      "check": "completed:dyna:13",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna/seed_00013/result.json"
+    },
+    {
+      "check": "status:dyna:13",
+      "passed": true,
+      "detail": "status=completed"
+    },
+    {
+      "check": "history:dyna:13",
+      "passed": true,
+      "detail": "rows=50, epochs=50"
+    },
+    {
+      "check": "validation_count:dyna:13",
+      "passed": true,
+      "detail": "n=10000"
+    },
+    {
+      "check": "predictions:dyna:13",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna/seed_00013/predictions_validation.npz"
+    },
+    {
+      "check": "target_order:dyna:13",
+      "passed": true,
+      "detail": "paired predictions share identical validation target order"
+    },
+    {
+      "check": "alphas:dyna:13",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna/seed_00013/alphas_validation.npz"
+    },
+    {
+      "check": "alpha_summary:dyna:13",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna/seed_00013/alpha_summary_validation.json"
+    },
+    {
+      "check": "gem_p:dyna:13",
+      "passed": true,
+      "detail": "learned_p=0.6940648555755615"
+    },
+    {
+      "check": "completed:dyna:42",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna/seed_00042/result.json"
+    },
+    {
+      "check": "status:dyna:42",
+      "passed": true,
+      "detail": "status=completed"
+    },
+    {
+      "check": "history:dyna:42",
+      "passed": true,
+      "detail": "rows=50, epochs=50"
+    },
+    {
+      "check": "validation_count:dyna:42",
+      "passed": true,
+      "detail": "n=10000"
+    },
+    {
+      "check": "predictions:dyna:42",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna/seed_00042/predictions_validation.npz"
+    },
+    {
+      "check": "target_order:dyna:42",
+      "passed": true,
+      "detail": "paired predictions share identical validation target order"
+    },
+    {
+      "check": "alphas:dyna:42",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna/seed_00042/alphas_validation.npz"
+    },
+    {
+      "check": "alpha_summary:dyna:42",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna/seed_00042/alpha_summary_validation.json"
+    },
+    {
+      "check": "gem_p:dyna:42",
+      "passed": true,
+      "detail": "learned_p=0.6934128403663635"
+    },
+    {
+      "check": "completed:dyna:2026",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna/seed_02026/result.json"
+    },
+    {
+      "check": "status:dyna:2026",
+      "passed": true,
+      "detail": "status=completed"
+    },
+    {
+      "check": "history:dyna:2026",
+      "passed": true,
+      "detail": "rows=50, epochs=50"
+    },
+    {
+      "check": "validation_count:dyna:2026",
+      "passed": true,
+      "detail": "n=10000"
+    },
+    {
+      "check": "predictions:dyna:2026",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna/seed_02026/predictions_validation.npz"
+    },
+    {
+      "check": "target_order:dyna:2026",
+      "passed": true,
+      "detail": "paired predictions share identical validation target order"
+    },
+    {
+      "check": "alphas:dyna:2026",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna/seed_02026/alphas_validation.npz"
+    },
+    {
+      "check": "alpha_summary:dyna:2026",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna/seed_02026/alpha_summary_validation.json"
+    },
+    {
+      "check": "gem_p:dyna:2026",
+      "passed": true,
+      "detail": "learned_p=0.6935868859291077"
+    },
+    {
+      "check": "completed:dyna_entropy:13",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_entropy/seed_00013/result.json"
+    },
+    {
+      "check": "status:dyna_entropy:13",
+      "passed": true,
+      "detail": "status=completed"
+    },
+    {
+      "check": "history:dyna_entropy:13",
+      "passed": true,
+      "detail": "rows=50, epochs=50"
+    },
+    {
+      "check": "validation_count:dyna_entropy:13",
+      "passed": true,
+      "detail": "n=10000"
+    },
+    {
+      "check": "predictions:dyna_entropy:13",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_entropy/seed_00013/predictions_validation.npz"
+    },
+    {
+      "check": "target_order:dyna_entropy:13",
+      "passed": true,
+      "detail": "paired predictions share identical validation target order"
+    },
+    {
+      "check": "alphas:dyna_entropy:13",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_entropy/seed_00013/alphas_validation.npz"
+    },
+    {
+      "check": "alpha_summary:dyna_entropy:13",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_entropy/seed_00013/alpha_summary_validation.json"
+    },
+    {
+      "check": "gem_p:dyna_entropy:13",
+      "passed": true,
+      "detail": "learned_p=2.631988048553467"
+    },
+    {
+      "check": "completed:dyna_entropy:42",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_entropy/seed_00042/result.json"
+    },
+    {
+      "check": "status:dyna_entropy:42",
+      "passed": true,
+      "detail": "status=completed"
+    },
+    {
+      "check": "history:dyna_entropy:42",
+      "passed": true,
+      "detail": "rows=50, epochs=50"
+    },
+    {
+      "check": "validation_count:dyna_entropy:42",
+      "passed": true,
+      "detail": "n=10000"
+    },
+    {
+      "check": "predictions:dyna_entropy:42",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_entropy/seed_00042/predictions_validation.npz"
+    },
+    {
+      "check": "target_order:dyna_entropy:42",
+      "passed": true,
+      "detail": "paired predictions share identical validation target order"
+    },
+    {
+      "check": "alphas:dyna_entropy:42",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_entropy/seed_00042/alphas_validation.npz"
+    },
+    {
+      "check": "alpha_summary:dyna_entropy:42",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_entropy/seed_00042/alpha_summary_validation.json"
+    },
+    {
+      "check": "gem_p:dyna_entropy:42",
+      "passed": true,
+      "detail": "learned_p=2.8348183631896973"
+    },
+    {
+      "check": "completed:dyna_entropy:2026",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_entropy/seed_02026/result.json"
+    },
+    {
+      "check": "status:dyna_entropy:2026",
+      "passed": true,
+      "detail": "status=completed"
+    },
+    {
+      "check": "history:dyna_entropy:2026",
+      "passed": true,
+      "detail": "rows=50, epochs=50"
+    },
+    {
+      "check": "validation_count:dyna_entropy:2026",
+      "passed": true,
+      "detail": "n=10000"
+    },
+    {
+      "check": "predictions:dyna_entropy:2026",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_entropy/seed_02026/predictions_validation.npz"
+    },
+    {
+      "check": "target_order:dyna_entropy:2026",
+      "passed": true,
+      "detail": "paired predictions share identical validation target order"
+    },
+    {
+      "check": "alphas:dyna_entropy:2026",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_entropy/seed_02026/alphas_validation.npz"
+    },
+    {
+      "check": "alpha_summary:dyna_entropy:2026",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_entropy/seed_02026/alpha_summary_validation.json"
+    },
+    {
+      "check": "gem_p:dyna_entropy:2026",
+      "passed": true,
+      "detail": "learned_p=2.7604024410247803"
+    },
+    {
+      "check": "completed:dyna_att_only:13",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_att_only/seed_00013/result.json"
+    },
+    {
+      "check": "status:dyna_att_only:13",
+      "passed": true,
+      "detail": "status=completed"
+    },
+    {
+      "check": "history:dyna_att_only:13",
+      "passed": true,
+      "detail": "rows=50, epochs=50"
+    },
+    {
+      "check": "validation_count:dyna_att_only:13",
+      "passed": true,
+      "detail": "n=10000"
+    },
+    {
+      "check": "predictions:dyna_att_only:13",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_att_only/seed_00013/predictions_validation.npz"
+    },
+    {
+      "check": "target_order:dyna_att_only:13",
+      "passed": true,
+      "detail": "paired predictions share identical validation target order"
+    },
+    {
+      "check": "alphas:dyna_att_only:13",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_att_only/seed_00013/alphas_validation.npz"
+    },
+    {
+      "check": "alpha_summary:dyna_att_only:13",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_att_only/seed_00013/alpha_summary_validation.json"
+    },
+    {
+      "check": "completed:dyna_att_only:42",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_att_only/seed_00042/result.json"
+    },
+    {
+      "check": "status:dyna_att_only:42",
+      "passed": true,
+      "detail": "status=completed"
+    },
+    {
+      "check": "history:dyna_att_only:42",
+      "passed": true,
+      "detail": "rows=50, epochs=50"
+    },
+    {
+      "check": "validation_count:dyna_att_only:42",
+      "passed": true,
+      "detail": "n=10000"
+    },
+    {
+      "check": "predictions:dyna_att_only:42",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_att_only/seed_00042/predictions_validation.npz"
+    },
+    {
+      "check": "target_order:dyna_att_only:42",
+      "passed": true,
+      "detail": "paired predictions share identical validation target order"
+    },
+    {
+      "check": "alphas:dyna_att_only:42",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_att_only/seed_00042/alphas_validation.npz"
+    },
+    {
+      "check": "alpha_summary:dyna_att_only:42",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_att_only/seed_00042/alpha_summary_validation.json"
+    },
+    {
+      "check": "completed:dyna_att_only:2026",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_att_only/seed_02026/result.json"
+    },
+    {
+      "check": "status:dyna_att_only:2026",
+      "passed": true,
+      "detail": "status=completed"
+    },
+    {
+      "check": "history:dyna_att_only:2026",
+      "passed": true,
+      "detail": "rows=50, epochs=50"
+    },
+    {
+      "check": "validation_count:dyna_att_only:2026",
+      "passed": true,
+      "detail": "n=10000"
+    },
+    {
+      "check": "predictions:dyna_att_only:2026",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_att_only/seed_02026/predictions_validation.npz"
+    },
+    {
+      "check": "target_order:dyna_att_only:2026",
+      "passed": true,
+      "detail": "paired predictions share identical validation target order"
+    },
+    {
+      "check": "alphas:dyna_att_only:2026",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_att_only/seed_02026/alphas_validation.npz"
+    },
+    {
+      "check": "alpha_summary:dyna_att_only:2026",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_att_only/seed_02026/alpha_summary_validation.json"
+    },
+    {
+      "check": "completed:equal:13",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/equal/seed_00013/result.json"
+    },
+    {
+      "check": "status:equal:13",
+      "passed": true,
+      "detail": "status=completed"
+    },
+    {
+      "check": "history:equal:13",
+      "passed": true,
+      "detail": "rows=50, epochs=50"
+    },
+    {
+      "check": "validation_count:equal:13",
+      "passed": true,
+      "detail": "n=10000"
+    },
+    {
+      "check": "predictions:equal:13",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/equal/seed_00013/predictions_validation.npz"
+    },
+    {
+      "check": "target_order:equal:13",
+      "passed": true,
+      "detail": "paired predictions share identical validation target order"
+    },
+    {
+      "check": "alphas:equal:13",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/equal/seed_00013/alphas_validation.npz"
+    },
+    {
+      "check": "alpha_summary:equal:13",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/equal/seed_00013/alpha_summary_validation.json"
+    },
+    {
+      "check": "gem_p:equal:13",
+      "passed": true,
+      "detail": "learned_p=7.973710060119629"
+    },
+    {
+      "check": "completed:equal:42",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/equal/seed_00042/result.json"
+    },
+    {
+      "check": "status:equal:42",
+      "passed": true,
+      "detail": "status=completed"
+    },
+    {
+      "check": "history:equal:42",
+      "passed": true,
+      "detail": "rows=50, epochs=50"
+    },
+    {
+      "check": "validation_count:equal:42",
+      "passed": true,
+      "detail": "n=10000"
+    },
+    {
+      "check": "predictions:equal:42",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/equal/seed_00042/predictions_validation.npz"
+    },
+    {
+      "check": "target_order:equal:42",
+      "passed": true,
+      "detail": "paired predictions share identical validation target order"
+    },
+    {
+      "check": "alphas:equal:42",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/equal/seed_00042/alphas_validation.npz"
+    },
+    {
+      "check": "alpha_summary:equal:42",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/equal/seed_00042/alpha_summary_validation.json"
+    },
+    {
+      "check": "gem_p:equal:42",
+      "passed": true,
+      "detail": "learned_p=7.979784965515137"
+    },
+    {
+      "check": "completed:equal:2026",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/equal/seed_02026/result.json"
+    },
+    {
+      "check": "status:equal:2026",
+      "passed": true,
+      "detail": "status=completed"
+    },
+    {
+      "check": "history:equal:2026",
+      "passed": true,
+      "detail": "rows=50, epochs=50"
+    },
+    {
+      "check": "validation_count:equal:2026",
+      "passed": true,
+      "detail": "n=10000"
+    },
+    {
+      "check": "predictions:equal:2026",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/equal/seed_02026/predictions_validation.npz"
+    },
+    {
+      "check": "target_order:equal:2026",
+      "passed": true,
+      "detail": "paired predictions share identical validation target order"
+    },
+    {
+      "check": "alphas:equal:2026",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/equal/seed_02026/alphas_validation.npz"
+    },
+    {
+      "check": "alpha_summary:equal:2026",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/equal/seed_02026/alpha_summary_validation.json"
+    },
+    {
+      "check": "gem_p:equal:2026",
+      "passed": true,
+      "detail": "learned_p=8.047069549560547"
+    },
+    {
+      "check": "completed:static_mean:13",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/static_mean/seed_00013/result.json"
+    },
+    {
+      "check": "status:static_mean:13",
+      "passed": true,
+      "detail": "status=completed"
+    },
+    {
+      "check": "history:static_mean:13",
+      "passed": true,
+      "detail": "rows=50, epochs=50"
+    },
+    {
+      "check": "validation_count:static_mean:13",
+      "passed": true,
+      "detail": "n=10000"
+    },
+    {
+      "check": "predictions:static_mean:13",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/static_mean/seed_00013/predictions_validation.npz"
+    },
+    {
+      "check": "target_order:static_mean:13",
+      "passed": true,
+      "detail": "paired predictions share identical validation target order"
+    },
+    {
+      "check": "alphas:static_mean:13",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/static_mean/seed_00013/alphas_validation.npz"
+    },
+    {
+      "check": "alpha_summary:static_mean:13",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/static_mean/seed_00013/alpha_summary_validation.json"
+    },
+    {
+      "check": "gem_p:static_mean:13",
+      "passed": true,
+      "detail": "learned_p=0.6949713230133057"
+    },
+    {
+      "check": "completed:static_mean:42",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/static_mean/seed_00042/result.json"
+    },
+    {
+      "check": "status:static_mean:42",
+      "passed": true,
+      "detail": "status=completed"
+    },
+    {
+      "check": "history:static_mean:42",
+      "passed": true,
+      "detail": "rows=50, epochs=50"
+    },
+    {
+      "check": "validation_count:static_mean:42",
+      "passed": true,
+      "detail": "n=10000"
+    },
+    {
+      "check": "predictions:static_mean:42",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/static_mean/seed_00042/predictions_validation.npz"
+    },
+    {
+      "check": "target_order:static_mean:42",
+      "passed": true,
+      "detail": "paired predictions share identical validation target order"
+    },
+    {
+      "check": "alphas:static_mean:42",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/static_mean/seed_00042/alphas_validation.npz"
+    },
+    {
+      "check": "alpha_summary:static_mean:42",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/static_mean/seed_00042/alpha_summary_validation.json"
+    },
+    {
+      "check": "gem_p:static_mean:42",
+      "passed": true,
+      "detail": "learned_p=0.6949174404144287"
+    },
+    {
+      "check": "completed:static_mean:2026",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/static_mean/seed_02026/result.json"
+    },
+    {
+      "check": "status:static_mean:2026",
+      "passed": true,
+      "detail": "status=completed"
+    },
+    {
+      "check": "history:static_mean:2026",
+      "passed": true,
+      "detail": "rows=50, epochs=50"
+    },
+    {
+      "check": "validation_count:static_mean:2026",
+      "passed": true,
+      "detail": "n=10000"
+    },
+    {
+      "check": "predictions:static_mean:2026",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/static_mean/seed_02026/predictions_validation.npz"
+    },
+    {
+      "check": "target_order:static_mean:2026",
+      "passed": true,
+      "detail": "paired predictions share identical validation target order"
+    },
+    {
+      "check": "alphas:static_mean:2026",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/static_mean/seed_02026/alphas_validation.npz"
+    },
+    {
+      "check": "alpha_summary:static_mean:2026",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/static_mean/seed_02026/alpha_summary_validation.json"
+    },
+    {
+      "check": "gem_p:static_mean:2026",
+      "passed": true,
+      "detail": "learned_p=0.6949387192726135"
+    },
+    {
+      "check": "completed:dyna_drop_avg:13",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_drop_avg/seed_00013/result.json"
+    },
+    {
+      "check": "status:dyna_drop_avg:13",
+      "passed": true,
+      "detail": "status=completed"
+    },
+    {
+      "check": "history:dyna_drop_avg:13",
+      "passed": true,
+      "detail": "rows=50, epochs=50"
+    },
+    {
+      "check": "validation_count:dyna_drop_avg:13",
+      "passed": true,
+      "detail": "n=10000"
+    },
+    {
+      "check": "predictions:dyna_drop_avg:13",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_drop_avg/seed_00013/predictions_validation.npz"
+    },
+    {
+      "check": "target_order:dyna_drop_avg:13",
+      "passed": true,
+      "detail": "paired predictions share identical validation target order"
+    },
+    {
+      "check": "alphas:dyna_drop_avg:13",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_drop_avg/seed_00013/alphas_validation.npz"
+    },
+    {
+      "check": "alpha_summary:dyna_drop_avg:13",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_drop_avg/seed_00013/alpha_summary_validation.json"
+    },
+    {
+      "check": "gem_p:dyna_drop_avg:13",
+      "passed": true,
+      "detail": "learned_p=0.693730890750885"
+    },
+    {
+      "check": "completed:dyna_drop_avg:42",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_drop_avg/seed_00042/result.json"
+    },
+    {
+      "check": "status:dyna_drop_avg:42",
+      "passed": true,
+      "detail": "status=completed"
+    },
+    {
+      "check": "history:dyna_drop_avg:42",
+      "passed": true,
+      "detail": "rows=50, epochs=50"
+    },
+    {
+      "check": "validation_count:dyna_drop_avg:42",
+      "passed": true,
+      "detail": "n=10000"
+    },
+    {
+      "check": "predictions:dyna_drop_avg:42",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_drop_avg/seed_00042/predictions_validation.npz"
+    },
+    {
+      "check": "target_order:dyna_drop_avg:42",
+      "passed": true,
+      "detail": "paired predictions share identical validation target order"
+    },
+    {
+      "check": "alphas:dyna_drop_avg:42",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_drop_avg/seed_00042/alphas_validation.npz"
+    },
+    {
+      "check": "alpha_summary:dyna_drop_avg:42",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_drop_avg/seed_00042/alpha_summary_validation.json"
+    },
+    {
+      "check": "gem_p:dyna_drop_avg:42",
+      "passed": true,
+      "detail": "learned_p=0.693976879119873"
+    },
+    {
+      "check": "completed:dyna_drop_avg:2026",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_drop_avg/seed_02026/result.json"
+    },
+    {
+      "check": "status:dyna_drop_avg:2026",
+      "passed": true,
+      "detail": "status=completed"
+    },
+    {
+      "check": "history:dyna_drop_avg:2026",
+      "passed": true,
+      "detail": "rows=50, epochs=50"
+    },
+    {
+      "check": "validation_count:dyna_drop_avg:2026",
+      "passed": true,
+      "detail": "n=10000"
+    },
+    {
+      "check": "predictions:dyna_drop_avg:2026",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_drop_avg/seed_02026/predictions_validation.npz"
+    },
+    {
+      "check": "target_order:dyna_drop_avg:2026",
+      "passed": true,
+      "detail": "paired predictions share identical validation target order"
+    },
+    {
+      "check": "alphas:dyna_drop_avg:2026",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_drop_avg/seed_02026/alphas_validation.npz"
+    },
+    {
+      "check": "alpha_summary:dyna_drop_avg:2026",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_drop_avg/seed_02026/alpha_summary_validation.json"
+    },
+    {
+      "check": "gem_p:dyna_drop_avg:2026",
+      "passed": true,
+      "detail": "learned_p=0.6938008069992065"
+    },
+    {
+      "check": "completed:dyna_drop_max:13",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_drop_max/seed_00013/result.json"
+    },
+    {
+      "check": "status:dyna_drop_max:13",
+      "passed": true,
+      "detail": "status=completed"
+    },
+    {
+      "check": "history:dyna_drop_max:13",
+      "passed": true,
+      "detail": "rows=50, epochs=50"
+    },
+    {
+      "check": "validation_count:dyna_drop_max:13",
+      "passed": true,
+      "detail": "n=10000"
+    },
+    {
+      "check": "predictions:dyna_drop_max:13",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_drop_max/seed_00013/predictions_validation.npz"
+    },
+    {
+      "check": "target_order:dyna_drop_max:13",
+      "passed": true,
+      "detail": "paired predictions share identical validation target order"
+    },
+    {
+      "check": "alphas:dyna_drop_max:13",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_drop_max/seed_00013/alphas_validation.npz"
+    },
+    {
+      "check": "alpha_summary:dyna_drop_max:13",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_drop_max/seed_00013/alpha_summary_validation.json"
+    },
+    {
+      "check": "gem_p:dyna_drop_max:13",
+      "passed": true,
+      "detail": "learned_p=0.6940873265266418"
+    },
+    {
+      "check": "completed:dyna_drop_max:42",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_drop_max/seed_00042/result.json"
+    },
+    {
+      "check": "status:dyna_drop_max:42",
+      "passed": true,
+      "detail": "status=completed"
+    },
+    {
+      "check": "history:dyna_drop_max:42",
+      "passed": true,
+      "detail": "rows=50, epochs=50"
+    },
+    {
+      "check": "validation_count:dyna_drop_max:42",
+      "passed": true,
+      "detail": "n=10000"
+    },
+    {
+      "check": "predictions:dyna_drop_max:42",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_drop_max/seed_00042/predictions_validation.npz"
+    },
+    {
+      "check": "target_order:dyna_drop_max:42",
+      "passed": true,
+      "detail": "paired predictions share identical validation target order"
+    },
+    {
+      "check": "alphas:dyna_drop_max:42",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_drop_max/seed_00042/alphas_validation.npz"
+    },
+    {
+      "check": "alpha_summary:dyna_drop_max:42",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_drop_max/seed_00042/alpha_summary_validation.json"
+    },
+    {
+      "check": "gem_p:dyna_drop_max:42",
+      "passed": true,
+      "detail": "learned_p=0.6939907670021057"
+    },
+    {
+      "check": "completed:dyna_drop_max:2026",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_drop_max/seed_02026/result.json"
+    },
+    {
+      "check": "status:dyna_drop_max:2026",
+      "passed": true,
+      "detail": "status=completed"
+    },
+    {
+      "check": "history:dyna_drop_max:2026",
+      "passed": true,
+      "detail": "rows=50, epochs=50"
+    },
+    {
+      "check": "validation_count:dyna_drop_max:2026",
+      "passed": true,
+      "detail": "n=10000"
+    },
+    {
+      "check": "predictions:dyna_drop_max:2026",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_drop_max/seed_02026/predictions_validation.npz"
+    },
+    {
+      "check": "target_order:dyna_drop_max:2026",
+      "passed": true,
+      "detail": "paired predictions share identical validation target order"
+    },
+    {
+      "check": "alphas:dyna_drop_max:2026",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_drop_max/seed_02026/alphas_validation.npz"
+    },
+    {
+      "check": "alpha_summary:dyna_drop_max:2026",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_drop_max/seed_02026/alpha_summary_validation.json"
+    },
+    {
+      "check": "gem_p:dyna_drop_max:2026",
+      "passed": true,
+      "detail": "learned_p=0.6930971145629883"
+    },
+    {
+      "check": "completed:dyna_drop_gem:13",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_drop_gem/seed_00013/result.json"
+    },
+    {
+      "check": "status:dyna_drop_gem:13",
+      "passed": true,
+      "detail": "status=completed"
+    },
+    {
+      "check": "history:dyna_drop_gem:13",
+      "passed": true,
+      "detail": "rows=50, epochs=50"
+    },
+    {
+      "check": "validation_count:dyna_drop_gem:13",
+      "passed": true,
+      "detail": "n=10000"
+    },
+    {
+      "check": "predictions:dyna_drop_gem:13",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_drop_gem/seed_00013/predictions_validation.npz"
+    },
+    {
+      "check": "target_order:dyna_drop_gem:13",
+      "passed": true,
+      "detail": "paired predictions share identical validation target order"
+    },
+    {
+      "check": "alphas:dyna_drop_gem:13",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_drop_gem/seed_00013/alphas_validation.npz"
+    },
+    {
+      "check": "alpha_summary:dyna_drop_gem:13",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_drop_gem/seed_00013/alpha_summary_validation.json"
+    },
+    {
+      "check": "completed:dyna_drop_gem:42",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_drop_gem/seed_00042/result.json"
+    },
+    {
+      "check": "status:dyna_drop_gem:42",
+      "passed": true,
+      "detail": "status=completed"
+    },
+    {
+      "check": "history:dyna_drop_gem:42",
+      "passed": true,
+      "detail": "rows=50, epochs=50"
+    },
+    {
+      "check": "validation_count:dyna_drop_gem:42",
+      "passed": true,
+      "detail": "n=10000"
+    },
+    {
+      "check": "predictions:dyna_drop_gem:42",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_drop_gem/seed_00042/predictions_validation.npz"
+    },
+    {
+      "check": "target_order:dyna_drop_gem:42",
+      "passed": true,
+      "detail": "paired predictions share identical validation target order"
+    },
+    {
+      "check": "alphas:dyna_drop_gem:42",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_drop_gem/seed_00042/alphas_validation.npz"
+    },
+    {
+      "check": "alpha_summary:dyna_drop_gem:42",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_drop_gem/seed_00042/alpha_summary_validation.json"
+    },
+    {
+      "check": "completed:dyna_drop_gem:2026",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_drop_gem/seed_02026/result.json"
+    },
+    {
+      "check": "status:dyna_drop_gem:2026",
+      "passed": true,
+      "detail": "status=completed"
+    },
+    {
+      "check": "history:dyna_drop_gem:2026",
+      "passed": true,
+      "detail": "rows=50, epochs=50"
+    },
+    {
+      "check": "validation_count:dyna_drop_gem:2026",
+      "passed": true,
+      "detail": "n=10000"
+    },
+    {
+      "check": "predictions:dyna_drop_gem:2026",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_drop_gem/seed_02026/predictions_validation.npz"
+    },
+    {
+      "check": "target_order:dyna_drop_gem:2026",
+      "passed": true,
+      "detail": "paired predictions share identical validation target order"
+    },
+    {
+      "check": "alphas:dyna_drop_gem:2026",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_drop_gem/seed_02026/alphas_validation.npz"
+    },
+    {
+      "check": "alpha_summary:dyna_drop_gem:2026",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_drop_gem/seed_02026/alpha_summary_validation.json"
+    },
+    {
+      "check": "completed:dyna_drop_att:13",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_drop_att/seed_00013/result.json"
+    },
+    {
+      "check": "status:dyna_drop_att:13",
+      "passed": true,
+      "detail": "status=completed"
+    },
+    {
+      "check": "history:dyna_drop_att:13",
+      "passed": true,
+      "detail": "rows=50, epochs=50"
+    },
+    {
+      "check": "validation_count:dyna_drop_att:13",
+      "passed": true,
+      "detail": "n=10000"
+    },
+    {
+      "check": "predictions:dyna_drop_att:13",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_drop_att/seed_00013/predictions_validation.npz"
+    },
+    {
+      "check": "target_order:dyna_drop_att:13",
+      "passed": true,
+      "detail": "paired predictions share identical validation target order"
+    },
+    {
+      "check": "alphas:dyna_drop_att:13",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_drop_att/seed_00013/alphas_validation.npz"
+    },
+    {
+      "check": "alpha_summary:dyna_drop_att:13",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_drop_att/seed_00013/alpha_summary_validation.json"
+    },
+    {
+      "check": "gem_p:dyna_drop_att:13",
+      "passed": true,
+      "detail": "learned_p=2.672603130340576"
+    },
+    {
+      "check": "completed:dyna_drop_att:42",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_drop_att/seed_00042/result.json"
+    },
+    {
+      "check": "status:dyna_drop_att:42",
+      "passed": true,
+      "detail": "status=completed"
+    },
+    {
+      "check": "history:dyna_drop_att:42",
+      "passed": true,
+      "detail": "rows=50, epochs=50"
+    },
+    {
+      "check": "validation_count:dyna_drop_att:42",
+      "passed": true,
+      "detail": "n=10000"
+    },
+    {
+      "check": "predictions:dyna_drop_att:42",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_drop_att/seed_00042/predictions_validation.npz"
+    },
+    {
+      "check": "target_order:dyna_drop_att:42",
+      "passed": true,
+      "detail": "paired predictions share identical validation target order"
+    },
+    {
+      "check": "alphas:dyna_drop_att:42",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_drop_att/seed_00042/alphas_validation.npz"
+    },
+    {
+      "check": "alpha_summary:dyna_drop_att:42",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_drop_att/seed_00042/alpha_summary_validation.json"
+    },
+    {
+      "check": "gem_p:dyna_drop_att:42",
+      "passed": true,
+      "detail": "learned_p=2.7186737060546875"
+    },
+    {
+      "check": "completed:dyna_drop_att:2026",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_drop_att/seed_02026/result.json"
+    },
+    {
+      "check": "status:dyna_drop_att:2026",
+      "passed": true,
+      "detail": "status=completed"
+    },
+    {
+      "check": "history:dyna_drop_att:2026",
+      "passed": true,
+      "detail": "rows=50, epochs=50"
+    },
+    {
+      "check": "validation_count:dyna_drop_att:2026",
+      "passed": true,
+      "detail": "n=10000"
+    },
+    {
+      "check": "predictions:dyna_drop_att:2026",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_drop_att/seed_02026/predictions_validation.npz"
+    },
+    {
+      "check": "target_order:dyna_drop_att:2026",
+      "passed": true,
+      "detail": "paired predictions share identical validation target order"
+    },
+    {
+      "check": "alphas:dyna_drop_att:2026",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_drop_att/seed_02026/alphas_validation.npz"
+    },
+    {
+      "check": "alpha_summary:dyna_drop_att:2026",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/dyna_drop_att/seed_02026/alpha_summary_validation.json"
+    },
+    {
+      "check": "gem_p:dyna_drop_att:2026",
+      "passed": true,
+      "detail": "learned_p=2.7117018699645996"
+    },
+    {
+      "check": "completed:att_avg:13",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/att_avg/seed_00013/result.json"
+    },
+    {
+      "check": "status:att_avg:13",
+      "passed": true,
+      "detail": "status=completed"
+    },
+    {
+      "check": "history:att_avg:13",
+      "passed": true,
+      "detail": "rows=50, epochs=50"
+    },
+    {
+      "check": "validation_count:att_avg:13",
+      "passed": true,
+      "detail": "n=10000"
+    },
+    {
+      "check": "predictions:att_avg:13",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/att_avg/seed_00013/predictions_validation.npz"
+    },
+    {
+      "check": "target_order:att_avg:13",
+      "passed": true,
+      "detail": "paired predictions share identical validation target order"
+    },
+    {
+      "check": "alphas:att_avg:13",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/att_avg/seed_00013/alphas_validation.npz"
+    },
+    {
+      "check": "alpha_summary:att_avg:13",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/att_avg/seed_00013/alpha_summary_validation.json"
+    },
+    {
+      "check": "completed:att_avg:42",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/att_avg/seed_00042/result.json"
+    },
+    {
+      "check": "status:att_avg:42",
+      "passed": true,
+      "detail": "status=completed"
+    },
+    {
+      "check": "history:att_avg:42",
+      "passed": true,
+      "detail": "rows=50, epochs=50"
+    },
+    {
+      "check": "validation_count:att_avg:42",
+      "passed": true,
+      "detail": "n=10000"
+    },
+    {
+      "check": "predictions:att_avg:42",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/att_avg/seed_00042/predictions_validation.npz"
+    },
+    {
+      "check": "target_order:att_avg:42",
+      "passed": true,
+      "detail": "paired predictions share identical validation target order"
+    },
+    {
+      "check": "alphas:att_avg:42",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/att_avg/seed_00042/alphas_validation.npz"
+    },
+    {
+      "check": "alpha_summary:att_avg:42",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/att_avg/seed_00042/alpha_summary_validation.json"
+    },
+    {
+      "check": "completed:att_avg:2026",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/att_avg/seed_02026/result.json"
+    },
+    {
+      "check": "status:att_avg:2026",
+      "passed": true,
+      "detail": "status=completed"
+    },
+    {
+      "check": "history:att_avg:2026",
+      "passed": true,
+      "detail": "rows=50, epochs=50"
+    },
+    {
+      "check": "validation_count:att_avg:2026",
+      "passed": true,
+      "detail": "n=10000"
+    },
+    {
+      "check": "predictions:att_avg:2026",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/att_avg/seed_02026/predictions_validation.npz"
+    },
+    {
+      "check": "target_order:att_avg:2026",
+      "passed": true,
+      "detail": "paired predictions share identical validation target order"
+    },
+    {
+      "check": "alphas:att_avg:2026",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/att_avg/seed_02026/alphas_validation.npz"
+    },
+    {
+      "check": "alpha_summary:att_avg:2026",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/att_avg/seed_02026/alpha_summary_validation.json"
+    },
+    {
+      "check": "completed:att_max:13",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/att_max/seed_00013/result.json"
+    },
+    {
+      "check": "status:att_max:13",
+      "passed": true,
+      "detail": "status=completed"
+    },
+    {
+      "check": "history:att_max:13",
+      "passed": true,
+      "detail": "rows=50, epochs=50"
+    },
+    {
+      "check": "validation_count:att_max:13",
+      "passed": true,
+      "detail": "n=10000"
+    },
+    {
+      "check": "predictions:att_max:13",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/att_max/seed_00013/predictions_validation.npz"
+    },
+    {
+      "check": "target_order:att_max:13",
+      "passed": true,
+      "detail": "paired predictions share identical validation target order"
+    },
+    {
+      "check": "alphas:att_max:13",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/att_max/seed_00013/alphas_validation.npz"
+    },
+    {
+      "check": "alpha_summary:att_max:13",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/att_max/seed_00013/alpha_summary_validation.json"
+    },
+    {
+      "check": "completed:att_max:42",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/att_max/seed_00042/result.json"
+    },
+    {
+      "check": "status:att_max:42",
+      "passed": true,
+      "detail": "status=completed"
+    },
+    {
+      "check": "history:att_max:42",
+      "passed": true,
+      "detail": "rows=50, epochs=50"
+    },
+    {
+      "check": "validation_count:att_max:42",
+      "passed": true,
+      "detail": "n=10000"
+    },
+    {
+      "check": "predictions:att_max:42",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/att_max/seed_00042/predictions_validation.npz"
+    },
+    {
+      "check": "target_order:att_max:42",
+      "passed": true,
+      "detail": "paired predictions share identical validation target order"
+    },
+    {
+      "check": "alphas:att_max:42",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/att_max/seed_00042/alphas_validation.npz"
+    },
+    {
+      "check": "alpha_summary:att_max:42",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/att_max/seed_00042/alpha_summary_validation.json"
+    },
+    {
+      "check": "completed:att_max:2026",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/att_max/seed_02026/result.json"
+    },
+    {
+      "check": "status:att_max:2026",
+      "passed": true,
+      "detail": "status=completed"
+    },
+    {
+      "check": "history:att_max:2026",
+      "passed": true,
+      "detail": "rows=50, epochs=50"
+    },
+    {
+      "check": "validation_count:att_max:2026",
+      "passed": true,
+      "detail": "n=10000"
+    },
+    {
+      "check": "predictions:att_max:2026",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/att_max/seed_02026/predictions_validation.npz"
+    },
+    {
+      "check": "target_order:att_max:2026",
+      "passed": true,
+      "detail": "paired predictions share identical validation target order"
+    },
+    {
+      "check": "alphas:att_max:2026",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/att_max/seed_02026/alphas_validation.npz"
+    },
+    {
+      "check": "alpha_summary:att_max:2026",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/att_max/seed_02026/alpha_summary_validation.json"
+    },
+    {
+      "check": "completed:att_gem:13",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/att_gem/seed_00013/result.json"
+    },
+    {
+      "check": "status:att_gem:13",
+      "passed": true,
+      "detail": "status=completed"
+    },
+    {
+      "check": "history:att_gem:13",
+      "passed": true,
+      "detail": "rows=50, epochs=50"
+    },
+    {
+      "check": "validation_count:att_gem:13",
+      "passed": true,
+      "detail": "n=10000"
+    },
+    {
+      "check": "predictions:att_gem:13",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/att_gem/seed_00013/predictions_validation.npz"
+    },
+    {
+      "check": "target_order:att_gem:13",
+      "passed": true,
+      "detail": "paired predictions share identical validation target order"
+    },
+    {
+      "check": "alphas:att_gem:13",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/att_gem/seed_00013/alphas_validation.npz"
+    },
+    {
+      "check": "alpha_summary:att_gem:13",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/att_gem/seed_00013/alpha_summary_validation.json"
+    },
+    {
+      "check": "gem_p:att_gem:13",
+      "passed": true,
+      "detail": "learned_p=0.6945449709892273"
+    },
+    {
+      "check": "completed:att_gem:42",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/att_gem/seed_00042/result.json"
+    },
+    {
+      "check": "status:att_gem:42",
+      "passed": true,
+      "detail": "status=completed"
+    },
+    {
+      "check": "history:att_gem:42",
+      "passed": true,
+      "detail": "rows=50, epochs=50"
+    },
+    {
+      "check": "validation_count:att_gem:42",
+      "passed": true,
+      "detail": "n=10000"
+    },
+    {
+      "check": "predictions:att_gem:42",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/att_gem/seed_00042/predictions_validation.npz"
+    },
+    {
+      "check": "target_order:att_gem:42",
+      "passed": true,
+      "detail": "paired predictions share identical validation target order"
+    },
+    {
+      "check": "alphas:att_gem:42",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/att_gem/seed_00042/alphas_validation.npz"
+    },
+    {
+      "check": "alpha_summary:att_gem:42",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/att_gem/seed_00042/alpha_summary_validation.json"
+    },
+    {
+      "check": "gem_p:att_gem:42",
+      "passed": true,
+      "detail": "learned_p=0.6946762800216675"
+    },
+    {
+      "check": "completed:att_gem:2026",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/att_gem/seed_02026/result.json"
+    },
+    {
+      "check": "status:att_gem:2026",
+      "passed": true,
+      "detail": "status=completed"
+    },
+    {
+      "check": "history:att_gem:2026",
+      "passed": true,
+      "detail": "rows=50, epochs=50"
+    },
+    {
+      "check": "validation_count:att_gem:2026",
+      "passed": true,
+      "detail": "n=10000"
+    },
+    {
+      "check": "predictions:att_gem:2026",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/att_gem/seed_02026/predictions_validation.npz"
+    },
+    {
+      "check": "target_order:att_gem:2026",
+      "passed": true,
+      "detail": "paired predictions share identical validation target order"
+    },
+    {
+      "check": "alphas:att_gem:2026",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/att_gem/seed_02026/alphas_validation.npz"
+    },
+    {
+      "check": "alpha_summary:att_gem:2026",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/att_gem/seed_02026/alpha_summary_validation.json"
+    },
+    {
+      "check": "gem_p:att_gem:2026",
+      "passed": true,
+      "detail": "learned_p=0.6944859027862549"
+    },
+    {
+      "check": "single_config_hash",
+      "passed": true,
+      "detail": "config_hashes=['3d21f37b05d1b3a2']"
+    },
+    {
+      "check": "analysis:accuracy_summary.csv",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/analysis/accuracy_summary.csv"
+    },
+    {
+      "check": "analysis:paired_seed_tests.csv",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/analysis/paired_seed_tests.csv"
+    },
+    {
+      "check": "analysis:mcnemar_auxiliary.csv",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/analysis/mcnemar_auxiliary.csv"
+    },
+    {
+      "check": "analysis:gate_summary_by_run.csv",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/analysis/gate_summary_by_run.csv"
+    },
+    {
+      "check": "analysis:learning_curves.png",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/analysis/learning_curves.png"
+    },
+    {
+      "check": "efficiency:efficiency_summary.csv",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/efficiency/efficiency_summary.csv"
+    },
+    {
+      "check": "efficiency:latency_raw_trials.csv",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/efficiency/latency_raw_trials.csv"
+    },
+    {
+      "check": "efficiency:measurement_environment.json",
+      "passed": true,
+      "detail": "/content/drive/MyDrive/DynaPool_Reviewer_Revision/reviewer_revision_v1/efficiency/measurement_environment.json"
+    }
+  ]
+}

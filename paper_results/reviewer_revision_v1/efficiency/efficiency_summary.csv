@@ -1,0 +1,6 @@
+method,batch_size,input_shape,parameters_million,macs_giga_per_batch,flops_giga_per_batch_2_per_mac,latency_ms_mean,latency_ms_std,latency_ms_median,warmup_iterations,timed_repetitions_per_trial,trials,precision,eval_mode,inference_mode,cuda_synchronize,counting_convention
+avg,1,1x3x64x64,11.271432,2.2316032,4.4632064,2.534155791666687,0.02335639518578749,2.5329663949999786,100,300,10,FP32,True,True,True,THOP MACs; FLOPs column is explicitly 2 FLOPs per MAC
+max,1,1x3x64x64,11.271432,2.2316032,4.4632064,2.547343404999917,0.02231586561266565,2.5375333599996948,100,300,10,FP32,True,True,True,THOP MACs; FLOPs column is explicitly 2 FLOPs per MAC
+gem,1,1x3x64x64,11.271432,2.2316032,4.4632064,2.712388494666584,0.010029766343373837,2.707772356666662,100,300,10,FP32,True,True,True,THOP MACs; FLOPs column is explicitly 2 FLOPs per MAC
+att,1,1x3x64x64,11.271945,2.231635968,4.463271936,2.658758432999851,0.004206642966276773,2.6590992216665654,100,300,10,FP32,True,True,True,THOP MACs; FLOPs column is explicitly 2 FLOPs per MAC
+dyna,1,1x3x64x64,11.404301,2.231768064,4.463536128,3.1980254173333837,0.043826248622404855,3.1918679366666916,100,300,10,FP32,True,True,True,THOP MACs; FLOPs column is explicitly 2 FLOPs per MAC

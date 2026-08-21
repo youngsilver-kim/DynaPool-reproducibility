@@ -1,0 +1,19 @@
+{
+  "counting_convention": "THOP reports MACs; an additional column reports 2 FLOPs per MAC",
+  "cuda_runtime": "12.8",
+  "cudnn": 91900,
+  "device": "cuda",
+  "device_name": "NVIDIA A100-SXM4-40GB",
+  "git_commit": null,
+  "input_image_size": 64,
+  "measurement_batch_size": 1,
+  "note": "THOP hooks supported modules; functional elementwise operations may not be included in MAC totals.",
+  "platform": "Linux-6.6.122+-x86_64-with-glibc2.35",
+  "precision": "FP32",
+  "python": "3.12.13",
+  "timed_repetitions_per_trial": 300,
+  "torch": "2.11.0+cu128",
+  "torchvision": "0.26.0+cu128",
+  "trials": 10,
+  "warmup_iterations": 100
+}

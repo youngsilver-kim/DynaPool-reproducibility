@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+data/
+outputs/
+*.part
+.ipynb_checkpoints/
+model_final.pt
+checkpoint_last.pt
+*.ckpt
+*.zip
+paper_figures/
